@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="vibeshub-core",
-    version="0.1.0",
+    version="0.2.0",
     description="Core utility functions for the VibesHub ecosystem.",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Iliyan Slavchov",
+    author_email="yani.slavchov@gmail.com",
     url="https://github.com/vibeshub-org/vibeshub-core",
     packages=find_packages(),
     install_requires=[],
